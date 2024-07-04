@@ -1,0 +1,153 @@
+body * {
+    text-align: center;
+    color: #000f08;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+  }
+
+.nav-link{
+    transition: .5s;
+}
+.nav-link:hover{
+    color: black
+}
+
+.imagen-viajes {
+    max-width: 2.5%!important;
+}
+
+.texto-viajes p {
+    margin-left: 10px;
+    margin-bottom: -1px;
+    color: white;
+}
+
+.navbar-nav {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.fondo{
+    background-color: #1798c1!important;
+}
+.parrafos {
+    display: block;
+    text-align: left;
+    margin: 0 1em;
+  }
+  .color {
+    background-color: black;
+    padding: 10px 0;
+  }
+  .fa-plane {
+    color: white;
+    background-color:#1798c1;
+    padding-left: 140px;
+    padding-right: 140px;
+    font-size: 150%;
+    margin: 0 auto;
+    margin-right: 10px;
+    
+  }
+  
+  .fa-car {
+    color: white;
+    background-color:#1798c1;
+    padding-left: 140px;
+    padding-right: 140px;
+    font-size: 150%;
+    margin: 0 auto;
+    margin-right: 10px;
+  }
+  
+  .fa-anchor {
+    color: white;
+    background-color:#1798c1;
+    padding-left: 140px;
+    padding-right: 140px;
+    font-size: 150%;
+    margin: 0 auto;
+    margin-right: 10px;
+  }
+  .card {
+    margin-right: 10px;
+  }
+  
+  .card:last-of-type {
+    margin-right: 0;
+  }
+  
+  .somos {
+    background-color: black;
+   
+  }
+  h1 {
+  
+    color: white!important;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    text-align: center;
+  }
+  hr { 
+    color: #1798c1!important;
+    background-color: #1798c1!important;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+.textos {
+    color: white!important;
+    text-align: left;
+  }
+
+.fondo-footer {
+  background-color: black;
+}
+  
+h2 {
+    color: white!important;
+    text-align: center;
+    font-size:2.5em!important;
+    vertical-align: middle;
+    padding-top: 25px;
+    padding-bottom: 15px;
+  }
+  
+  h3 {
+    color: white!important;
+    text-align: center;
+    font-size:2.5em!important;
+    vertical-align: middle;
+    padding-top: 300px;
+  }
+  
+  h4 {
+  color: white!important;
+  font-size: 1.5em;
+  
+  }
+  
+  .fa-2x {
+    margin: 0 0.3em;
+    color: white!important;
+  }
+
+  #contactForm {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+}  
+
+#contactForm .form-label {
+  color: white;
+}
+
